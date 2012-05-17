@@ -25,7 +25,7 @@ class Zenbu_mx_cloner_ext {
 	
 	var $name				= 'Zenbu MX Cloner support extension';
 	var $addon_short_name 	= 'zenbu_mx_cloner';
-	var $version 			= '1.0.0';
+	var $version 			= '1.0.0'; 
 	var $description		= 'Enables display of a column for the MX cloner add-on';
 	var $settings_exist		= 'n';
 	var $docs_url			= 'http://nicolasbottari.com/expressionengine_cms/docs/zenbu-mx-cloner';
