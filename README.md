@@ -13,6 +13,7 @@ This add-on is also a teaching aid/example for developers who wish to modify the
 
 - ExpressionEngine 2.x
 - Zenbu 1.5.5+ (Get it [here](http://devot-ee.com/add-ons/zenbu/))
+- [MX Cloner](http://devot-ee.com/add-ons/mx-cloner) (You could run this add-on without MX Cloner, but it won't actually *clone* entries)
 
 
 ## Installation
