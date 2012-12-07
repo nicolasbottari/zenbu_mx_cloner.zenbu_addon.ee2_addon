@@ -13,7 +13,7 @@
  *
  * REQUIRES Zenbu module:
  * @link	http://zenbustudio.com/software/zenbu/
- * @see		http://zenbustudio.com/software/docs/zenbu-playa-family/
+ * @see		http://zenbustudio.com/software/docs/zenbu/
  *
  * MX Cloner add-on: 
  * @author 	Max Lazar
