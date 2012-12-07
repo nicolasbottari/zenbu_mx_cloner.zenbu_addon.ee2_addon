@@ -4,16 +4,16 @@
  * =========================================
  * Enables display of a column for the MX cloner add-on
  * @version 	1.0.0 
- * @author 		Nicolas Bottari
+ * @author 		Nicolas Bottari - Zenbu Studio
  * ------------------------------ 
  * 
  * *** IMPORTANT NOTES ***
- * I (Nicolas Bottari) am not responsible for any
+ * I (Nicolas Bottari/Zenbu Studio) am not responsible for any
  * damage, data loss, etc caused directly or indirectly by the use of this extension. 
  *
  * REQUIRES Zenbu module:
- * @link	http://nicolasbottari.com/expressionengine_cms/zenbu/
- * @see		http://nicolasbottari.com/expressionengine_cms/docs/zenbu-mx-cloner/
+ * @link	http://zenbustudio.com/software/zenbu/
+ * @see		http://zenbustudio.com/software/docs/zenbu-playa-family/
  *
  * MX Cloner add-on: 
  * @author 	Max Lazar
