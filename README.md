@@ -1,7 +1,7 @@
 # Zenbu MX Cloner
 Adds [MX Cloner](http://devot-ee.com/add-ons/mx-cloner) support to Zenbu.
 
-This extension for the [Zenbu](http://devot-ee.com/add-ons/zenbu/) add-on adds a column for the [MX Cloner](http://devot-ee.com/add-ons/mx-cloner) add-on as an extra column in Zenbu.
+This extension for the [Zenbu](http://zenbustudio.com/software/zenbu/) add-on adds a column for the [MX Cloner](http://devot-ee.com/add-ons/mx-cloner) add-on as an extra column in Zenbu.
 
 This add-on is also a teaching aid/example for developers who wish to modify the display of Zenbu column data using the following hooks:
 
@@ -12,7 +12,7 @@ This add-on is also a teaching aid/example for developers who wish to modify the
 ## Requirements
 
 - ExpressionEngine 2.x
-- Zenbu 1.5.5+ (Get it [here](http://devot-ee.com/add-ons/zenbu/))
+- Zenbu 1.5.5+ (Get it [here](http://zenbustudio.com/software/zenbu/))
 - [MX Cloner](http://devot-ee.com/add-ons/mx-cloner) (You could run this add-on without MX Cloner, but it won't actually *clone* entries)
 
 
